@@ -4,9 +4,9 @@ This repo represents the final course project for the Getting and Cleaning Data 
 
 These three files below represent the project artifacts:
 
-* run_analysis.R
-* CodeBook.md
-* README.md
+* <a href="https://github.com/sasgitguy/Getting-and-Cleaning-Assignment/blob/master/run_analysis.R">run_analysis.R</a>
+* <a href="https://github.com/sasgitguy/Getting-and-Cleaning-Assignment/blob/master/CodeBook.md">CodeBook.md</a>
+* <a href="https://github.com/sasgitguy/Getting-and-Cleaning-Assignment/blob/master/README.md">README.md</a>
 
 The R script performs the data analysis, and completes the following required steps:
 
